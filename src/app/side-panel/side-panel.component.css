@@ -1,0 +1,78 @@
+.calender
+{
+    width: 45%;
+  
+}
+
+.excIcon
+{
+    font-size: 90px;
+}
+
+.sidePanel
+{
+    display: flex;
+    
+}
+
+.timer
+{
+    flex: 1;
+    padding-top:39%;
+   
+}
+
+.timerNum
+{
+    font-weight: 600;
+    font-size: 53px; 
+    text-align: center;
+}
+.timerUnit
+{
+    margin:0;
+    text-align: center;
+    font-size: 28px;
+    border-bottom: 5px solid black;
+
+}
+
+
+ .rest
+{
+    flex: 5
+}
+
+.steps
+{
+    width: 57%;
+    text-align: center;
+    padding-bottom: 6px;
+    font-size: 80px;
+    font-weight: 300
+}
+
+.headerCalender
+{
+font-weight: 600;
+padding-bottom: 15px;
+}
+
+.cardContent
+{
+    text-align: center;
+}
+
+.sidePanel
+{
+    transform: perspective(1600px) rotateX(0deg) rotateY(-27deg) rotateZ(0deg);
+}
+
+.lastQuote
+{
+    margin-top: 6px;
+    padding-top:10px;
+    padding-bottom: 10px;
+    font-family: 'Ubuntu', sans-serif;
+
+}
